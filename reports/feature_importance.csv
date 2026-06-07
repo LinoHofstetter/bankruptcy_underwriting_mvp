@@ -1,0 +1,65 @@
+feature,description,importance
+X27,profit on operating activities / financial expenses,18.250727081255302
+X21,sales n / sales n-1,11.064220172758876
+X34,operating expenses / total liabilities,6.7736822922811735
+X46,(current assets - inventory) / short-term liabilities,3.4008381722308987
+X58,total costs / total sales,3.260693489480518
+X24,gross profit in 3 years / total assets,3.049270547224161
+X35,profit on sales / total assets,2.5109643147887413
+X9,sales / total assets,2.505638474793446
+X6,retained earnings / total assets,2.361339394912683
+X39,profit on sales / sales,2.0919017396823407
+X41,total liabilities / ((profit on operating activities + depreciation) * (12/365)),1.9903290311099586
+X56,(sales - cost of products sold) / sales,1.8785543625714305
+X43,rotation receivables + inventory turnover in days,1.7913604867868271
+X55,working capital,1.602350020473136
+X25,(equity - share capital) / total assets,1.600813890525097
+X48,EBITDA / total assets,1.4593817241901854
+X11,(gross profit + extraordinary items + financial expenses) / total assets,1.4207669330331352
+X40,(current assets - inventory - receivables) / short-term liabilities,1.3846499269965276
+X44,(receivables * 365) / sales,1.2492155477003686
+X38,constant capital / total assets,1.2227443953923551
+X5,[(cash + short-term securities + receivables - short-term liabilities) / (operating expenses - depreciation)] * 365,1.2174101311893126
+X15,(total liabilities * 365) / (gross profit + depreciation),1.202841941026163
+X22,profit on operating activities / total assets,1.0984196455803026
+X61,sales / receivables,1.0910948005623613
+X36,total sales / total assets,1.07038047323573
+X29,logarithm of total assets,1.0669565126559037
+X45,net profit / inventory,1.006867334848413
+X4,current assets / short-term liabilities,1.003618081219544
+X26,(net profit + depreciation) / total liabilities,0.9721681930019858
+X13,(gross profit + depreciation) / sales,0.9385344546890948
+X16,(gross profit + depreciation) / total liabilities,0.9179873043834428
+X14,(gross profit + interest) / total assets,0.8965435800309277
+X49,EBITDA / sales,0.8924164193695122
+X42,profit on operating activities / sales,0.8371257772228525
+X20,(inventory * 365) / sales,0.7663708485673476
+X51,short-term liabilities / total assets,0.7600068259102704
+X60,sales / inventory,0.734250723968604
+X28,working capital / fixed assets,0.7136166303598052
+X37,(current assets - inventories) / long-term liabilities,0.7069541040181412
+X47,(inventory * 365) / cost of products sold,0.6982184142291197
+X31,(gross profit + interest) / sales,0.6787527287658964
+X1,net profit / total assets,0.6317428796436116
+X62,(short-term liabilities * 365) / sales,0.6246552195431062
+X12,gross profit / short-term liabilities,0.6114687286346506
+X54,constant capital / fixed assets,0.5988062649721921
+X23,net profit / sales,0.5987256029509995
+X63,sales / short-term liabilities,0.5407175521589742
+X53,equity / fixed assets,0.46164942992788616
+X52,(short-term liabilities * 365) / cost of products sold,0.44401023059689576
+X50,current assets / total liabilities,0.43576936234574193
+X8,book value of equity / total liabilities,0.41777587366884894
+X30,(total liabilities - cash) / sales,0.4122597720823065
+X33,operating expenses / short-term liabilities,0.4047406112448627
+X19,gross profit / sales,0.4020372746615985
+X32,(current liabilities * 365) / cost of products sold,0.38631254331659
+X64,sales / fixed assets,0.38226049546015284
+X18,gross profit / total assets,0.378479635054464
+X3,working capital / total assets,0.3354657626871777
+X2,total liabilities / total assets,0.31888866155187273
+X57,(current assets - inventory - short-term liabilities) / (sales - gross profit - depreciation),0.3149293670955541
+X59,long-term liabilities / equity,0.306917758074082
+X10,equity / total assets,0.3013773597255493
+X17,total assets / total liabilities,0.2782329319484843
+X7,EBIT / total assets,0.2727997596324882
